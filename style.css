@@ -1,0 +1,66 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+header{
+  background-color: #D7BDE2 ;
+}
+ .content-wrap{
+   width: 800px;
+   margin: 0 auto;
+   padding: 60px 0;
+}
+
+.clubs{
+  background-color:#FF7F
+}
+body{
+  
+  font-family:'Montserrat',sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.club-2{
+  background-color:#DAF7A6 
+}
+h1,h2{
+  font-family:'caveat',cursive;
+  font-weight: 400;
+}
+.divider>section{
+  overflow:hidden;
+  border-bottom:4px dashed#343434;
+  padding:25px 0;
+}
+.item-1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+}
+.project-details{
+  font-family: 'Roboto', sans-serif;
+}
+.solution{
+  font-family: 'Roboto',sans-serif;
+}
+.education{
+  background: #CACFD2;
+}
+.contact-list{
+  list-style-type:none;
+  padding-left: 0;
+}
+footer{
+  background:#F9E79F;
+}
+.projects{
+  background-color:#EDBB99;
+}
+.item-2{
+  display: grid;
+  grid-template-columns: 7fr 1fr;
+  column-gap: 20px;}
+item-3{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  column-gap: 20px;}
